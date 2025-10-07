@@ -36,3 +36,6 @@ A custom development board I built to make learning with the ESP32 simpler and m
 It’s mainly for students who just want to code, test their ideas, and play with IoT or cloud stuff, without fighting with cables or trying to find components in school lab (:
 Just plug it in, write some code, and have fun watching things come to life...
 
+or more details on what the board supports, you can check the schematic here:
+
+`ESP32_TFT_Screen/Schematic/Schematic_TFT_LCD_ESP32_v2_2025-07-15.pdf` 
