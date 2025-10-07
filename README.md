@@ -1,4 +1,4 @@
-# Fun PCB projects (:
+# Fun PCB projects ~
 
 * LED chaser with USB-C connector
 * ESP32 module Shield board.
@@ -6,7 +6,11 @@
 
 ## LED Chaser
 
-A simple PCB project built around a 555 timer IC and a potentiometer to control the blinking speed. Powered through a USB-C connector for convenience.
+I made this little board just for fun, a classic 555 timer driving a row of LEDs.
+The potentiometer controls how fast they blink, and I added a USB-C port because… well, why not keep even a simple circuit a bit fancy? [:
+
+*It has a cosmic touch on the front and my name in Arabic on the back.*
+
 
 PCB Design:
 
