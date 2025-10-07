@@ -21,7 +21,8 @@ Assembled PCB:
 <img width="302" height="427" alt="Screenshot 2025-10-04 at 10 57 43 pm" src="https://github.com/user-attachments/assets/00d90d47-48eb-4f15-a0cf-773ea0bcee9d" />
 
 
-## ESP32 Shield
+## ESP32 Development Board
+
 
 PCB Design:
 
@@ -31,12 +32,7 @@ PCB Design:
 
 
 
-An experimental ESP32 module board designed to connect multiple peripherals, including:
+A custom development board I built to make learning with the ESP32 simpler and more fun (:
+It’s mainly for students who just want to code, test their ideas, and play with IoT or cloud stuff, without fighting with cables or trying to find components in school lab (:
+Just plug it in, write some code, and have fun watching things come to life...
 
-* TFT screen
-* DHT11 sensor
-* Push buttons
-* Buzzer
-
-
-This board is meant as a multi-purpose experimental platform for trying out different IoT and embedded projects using the ESP32.
