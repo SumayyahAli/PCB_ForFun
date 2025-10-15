@@ -38,7 +38,6 @@ PCB Design:
 
 A custom development board I built to make learning with the ESP32 simpler and more fun (:
 It’s mainly for students who just want to code, test their ideas, and play with IoT or cloud stuff, without fighting with cables or trying to find components in school lab (:
-Just plug it in, write some code, and have fun watching things come to life...
 
 For more details on what the board supports, you can check the schematic here:
 
